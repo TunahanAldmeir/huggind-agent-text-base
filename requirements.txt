@@ -1,0 +1,8 @@
+transformers[agents]
+datasets
+langchain
+sentence-transformers
+faiss-cpu
+duckduckgo-search
+openai
+langchain-community
